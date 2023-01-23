@@ -2,8 +2,9 @@
 
 # SQL
 
-### Domains
+## Domains
 
+### Basic Select
 | Number | Challenge | Points | Solutions
 | :-------: | :-------: | :----: | :------:
 | 1 | [Revising the Select Query I](https://www.hackerrank.com/challenges/revising-the-select-query) | 10 | [SQL](https://github.com/berkayzaimdev/HackerRank/blob/main/SQL/Basic%20Select/01_Revising%20the%20Select%20Query%20I.sql)
