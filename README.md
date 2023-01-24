@@ -1,5 +1,5 @@
-[<p align="center"><img src="https://user-images.githubusercontent.com/88087972/214304048-f2b0c50f-e299-4c3d-b318-c281879a859d.png" width="50%"/></p>](https://www.hackerrank.com/berkayzaimdev)
-
+<div align="center"><a href="https://www.hackerrank.com/berkayzaimdev"><img src="https://user-images.githubusercontent.com/88087972/214304048-f2b0c50f-e299-4c3d-b318-c281879a859d.png" width="50%"/></a></div>
+ 
 - [SQL](#sql)
 - [Regex](#regex)
 
