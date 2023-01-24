@@ -1,4 +1,4 @@
-[<img src="https://user-images.githubusercontent.com/88087972/214304048-f2b0c50f-e299-4c3d-b318-c281879a859d.png" width="350"/>](https://www.hackerrank.com/berkayzaimdev)
+[<p align="center"><img src="https://user-images.githubusercontent.com/88087972/214304048-f2b0c50f-e299-4c3d-b318-c281879a859d.png" width="50%"/></p>](https://www.hackerrank.com/berkayzaimdev)
 
 - [SQL](#sql)
 - [Regex](#regex)
