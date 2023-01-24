@@ -1,4 +1,4 @@
-[![image](https://user-images.githubusercontent.com/88087972/214143931-a829cadb-5613-43a9-ad77-9070fca7b156.png)](https://www.hackerrank.com/berkayzaimdev)
+[![image](https://user-images.githubusercontent.com/88087972/214304048-f2b0c50f-e299-4c3d-b318-c281879a859d.png)](https://www.hackerrank.com/berkayzaimdev)
 
 - SQL 
 
