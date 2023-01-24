@@ -8,6 +8,7 @@
 
 ## Domains
 
+
 ### Basic Select
 | Number | Challenge | Points | Solutions
 | :-------: | :-------: | :----: | :------:
@@ -37,3 +38,9 @@
 | Number | Challenge | Points | Solutions
 | :-------: | :-------: | :----: | :------:
 | 1 | [Type of Triangle](https://www.hackerrank.com/challenges/what-type-of-triangle) | 20 | [SQL](https://github.com/berkayzaimdev/HackerRank/blob/main/SQL/Advanced%20Select/01_Type%20of%20Triangle.sql)
+
+
+### Aggregation
+| Number | Challenge | Points | Solutions
+| :-------: | :-------: | :----: | :------:
+| 1 | [Revising Aggregations - The Count Function](https://www.hackerrank.com/challenges/revising-aggregations-the-count-function) | 10 | [SQL](https://github.com/berkayzaimdev/HackerRank/blob/main/SQL/Aggregation/01_Revising%20Aggregations%20-%20The%20Count%20Function.sql)
