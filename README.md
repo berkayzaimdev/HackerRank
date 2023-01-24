@@ -31,3 +31,9 @@
 | 18 | [Higher Than 75 Marks](https://www.hackerrank.com/challenges/more-than-75-marks) | 15 | [SQL](https://github.com/berkayzaimdev/HackerRank/blob/main/SQL/Basic%20Select/18_Higher%20Than%2075%20Marks.sql)
 | 19 | [Employee Names](https://www.hackerrank.com/challenges/name-of-employees) | 10 | [SQL](https://github.com/berkayzaimdev/HackerRank/blob/main/SQL/Basic%20Select/19_Employee%20Names.sql)
 | 20 | [Employee Salaries](https://www.hackerrank.com/challenges/salary-of-employees) | 10 | [SQL](https://github.com/berkayzaimdev/HackerRank/blob/main/SQL/Basic%20Select/20_Employee%20Salaries.sql)
+
+
+### Advanced Select
+| Number | Challenge | Points | Solutions
+| :-------: | :-------: | :----: | :------:
+| 1 | [Type of Triangle](https://www.hackerrank.com/challenges/what-type-of-triangle) | 20 | [SQL](https://github.com/berkayzaimdev/HackerRank/blob/main/SQL/Advanced%20Select/01_Type%20of%20Triangle.sql)
