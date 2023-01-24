@@ -44,3 +44,5 @@
 | Number | Challenge | Points | Solutions
 | :-------: | :-------: | :----: | :------:
 | 1 | [Revising Aggregations - The Count Function](https://www.hackerrank.com/challenges/revising-aggregations-the-count-function) | 10 | [SQL](https://github.com/berkayzaimdev/HackerRank/blob/main/SQL/Aggregation/01_Revising%20Aggregations%20-%20The%20Count%20Function.sql)
+| 2 | [Revising Aggregations - The Sum Function](https://www.hackerrank.com/challenges/revising-aggregations-sum) | 10 | [SQL](https://github.com/berkayzaimdev/HackerRank/blob/main/SQL/Aggregation/02_Revising%20Aggregations%20-%20The%20Sum%20Function.sql)
+
