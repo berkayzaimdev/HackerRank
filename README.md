@@ -17,7 +17,7 @@
 | 4 | [Select By ID](https://www.hackerrank.com/challenges/select-by-id) | 10 | [SQL](https://github.com/berkayzaimdev/HackerRank/blob/main/SQL/Basic%20Select/04_Select%20By%20ID.sql)
 | 5 | [Japanese Cities' Attributes](https://www.hackerrank.com/challenges/japanese-cities-attributes) | 10 | [SQL](https://github.com/berkayzaimdev/HackerRank/blob/main/SQL/Basic%20Select/05_Japanese%20Cities'%20Attributes.sql)
 | 6 | [Japanese Cities' Names](https://www.hackerrank.com/challenges/japanese-cities-name) | 10 | [SQL](https://github.com/berkayzaimdev/HackerRank/blob/main/SQL/Basic%20Select/06_Japanese%20Cities'%20Names.sql)
-| 7 | [Weather Observation Station 1](https://www.hackerrank.com/challenges/weather-observation-station-1) | 15 | [SQL]()
+| 7 | [Weather Observation Station 1](https://www.hackerrank.com/challenges/weather-observation-station-1) | 15 | [SQL](https://github.com/berkayzaimdev/HackerRank/blob/main/SQL/Basic%20Select/07_Weather%20Observation%20Station%201.sql)
 | 8 | [Weather Observation Station 3](https://www.hackerrank.com/challenges/weather-observation-station-3) | 10 | [SQL]()
 | 9 | [Weather Observation Station 4](https://www.hackerrank.com/challenges/weather-observation-station-4) | 10 | [SQL]()
 | 10 | [Weather Observation Station 5](https://www.hackerrank.com/challenges/weather-observation-station-5) | 30 | [SQL]()
