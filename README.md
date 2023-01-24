@@ -8,6 +8,9 @@
 # SQL
 
 ## Subdomains
+- [Basic Select](#basic-select)
+- [Advanced Select](#advanced-select)
+- [Aggregation](#aggregation)
 
 
 ### Basic Select
@@ -51,7 +54,7 @@
 # Regex
 
 ## Subdomains
-
+- [Introduction](#introduction)
 
 ### Introduction
 | Number | Challenge | Points | Solution
