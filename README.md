@@ -1,16 +1,17 @@
 [<img src="https://user-images.githubusercontent.com/88087972/214304048-f2b0c50f-e299-4c3d-b318-c281879a859d.png" width="350"/>](https://www.hackerrank.com/berkayzaimdev)
 
-- SQL 
+- [SQL](#sql)
+- [Regex](#regex)
 
 
 
 # SQL
 
-## Domains
+## Subdomains
 
 
 ### Basic Select
-| Number | Challenge | Points | Solutions
+| Number | Challenge | Points | Solution
 | :-------: | :-------: | :----: | :------:
 | 1 | [Revising the Select Query I](https://www.hackerrank.com/challenges/revising-the-select-query) | 10 | [SQL](https://github.com/berkayzaimdev/HackerRank/blob/main/SQL/Basic%20Select/01_Revising%20the%20Select%20Query%20I.sql)
 | 2 | [Revising the Select Query II](https://www.hackerrank.com/challenges/revising-the-select-query-2) | 10 | [SQL](https://github.com/berkayzaimdev/HackerRank/blob/main/SQL/Basic%20Select/02_Revising%20the%20Select%20Query%20II.sql)
@@ -35,14 +36,29 @@
 
 
 ### Advanced Select
-| Number | Challenge | Points | Solutions
+| Number | Challenge | Points | Solution
 | :-------: | :-------: | :----: | :------:
 | 1 | [Type of Triangle](https://www.hackerrank.com/challenges/what-type-of-triangle) | 20 | [SQL](https://github.com/berkayzaimdev/HackerRank/blob/main/SQL/Advanced%20Select/01_Type%20of%20Triangle.sql)
 
 
 ### Aggregation
-| Number | Challenge | Points | Solutions
+| Number | Challenge | Points | Solution
 | :-------: | :-------: | :----: | :------:
 | 1 | [Revising Aggregations - The Count Function](https://www.hackerrank.com/challenges/revising-aggregations-the-count-function) | 10 | [SQL](https://github.com/berkayzaimdev/HackerRank/blob/main/SQL/Aggregation/01_Revising%20Aggregations%20-%20The%20Count%20Function.sql)
 | 2 | [Revising Aggregations - The Sum Function](https://www.hackerrank.com/challenges/revising-aggregations-sum) | 10 | [SQL](https://github.com/berkayzaimdev/HackerRank/blob/main/SQL/Aggregation/02_Revising%20Aggregations%20-%20The%20Sum%20Function.sql)
 
+
+# Regex
+
+## Subdomains
+
+
+### Introduction
+| Number | Challenge | Points | Solution
+| :-------: | :-------: | :----: | :------:
+| 1 | [Matching Specific String](https://www.hackerrank.com/challenges/matching-specific-string) | 5 | [Python](https://github.com/berkayzaimdev/HackerRank/blob/main/Regex/01_Matching%20Specific%20String.py)
+| 2 | [Matching Anything But a Newline](https://www.hackerrank.com/challenges/matching-anything-but-new-line) | 5 | [Python](https://github.com/berkayzaimdev/HackerRank/blob/main/Regex/02_Matching%20Anything%20But%20a%20Newline.py)
+| 3 | [Matching Digits & Non-Digit Characters](https://www.hackerrank.com/challenges/matching-digits-non-digit-character) | 5 | [Python](https://github.com/berkayzaimdev/HackerRank/blob/main/Regex/03_Matching%20Digits%20%26%20Non-Digit%20Characters.py)
+| 4 | [Matching Whitespace & Non-Whitespace Character](https://www.hackerrank.com/challenges/matching-whitespace-non-whitespace-character) | 5 | [Python](https://github.com/berkayzaimdev/HackerRank/blob/main/Regex/04_Matching%20Whitespace%20%26%20Non-Whitespace%20Character.py)
+| 5 | [Matching Word & Non-Word Character](https://www.hackerrank.com/challenges/matching-word-non-word) | 5 | [Python](https://github.com/berkayzaimdev/HackerRank/blob/main/Regex/05_Matching%20Word%20%26%20Non-Word%20Character.py)
+| 6 | [Matching Start & End](https://www.hackerrank.com/challenges/matching-start-end) | 5 | [Python](https://github.com/berkayzaimdev/HackerRank/blob/main/Regex/06_Matching%20Start%20%26%20End.py)
