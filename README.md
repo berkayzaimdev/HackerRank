@@ -24,7 +24,7 @@
 | 11 | [Weather Observation Station 6](https://www.hackerrank.com/challenges/weather-observation-station-6) | 10 | [SQL](https://github.com/berkayzaimdev/HackerRank/blob/main/SQL/Basic%20Select/11_Weather%20Observation%20Station%206.sql)
 | 12 | [Weather Observation Station 7](https://www.hackerrank.com/challenges/weather-observation-station-7) | 10 | [SQL](https://github.com/berkayzaimdev/HackerRank/blob/main/SQL/Basic%20Select/12_Weather%20Observation%20Station%207.sql)
 | 13 | [Weather Observation Station 8](https://www.hackerrank.com/challenges/weather-observation-station-8) | 15 | [SQL](https://github.com/berkayzaimdev/HackerRank/blob/main/SQL/Basic%20Select/13_Weather%20Observation%20Station%208.sql)
-| 14 | [Weather Observation Station 9](https://www.hackerrank.com/challenges/weather-observation-station-9) | 10 | [SQL]()
+| 14 | [Weather Observation Station 9](https://www.hackerrank.com/challenges/weather-observation-station-9) | 10 | [SQL](https://github.com/berkayzaimdev/HackerRank/blob/main/SQL/Basic%20Select/14_Weather%20Observation%20Station%209.sql)
 | 15 | [Weather Observation Station 10](https://www.hackerrank.com/challenges/weather-observation-station-10) | 10 | [SQL]()
 | 16 | [Weather Observation Station 11](https://www.hackerrank.com/challenges/weather-observation-station-11) | 15 | [SQL]()
 | 17 | [Weather Observation Station 12](https://www.hackerrank.com/challenges/weather-observation-station-12) | 15 | [SQL]()
