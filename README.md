@@ -29,5 +29,5 @@
 | 16 | [Weather Observation Station 11](https://www.hackerrank.com/challenges/weather-observation-station-11) | 15 | [SQL](https://github.com/berkayzaimdev/HackerRank/blob/main/SQL/Basic%20Select/16_Weather%20Observation%20Station%2011.sql)
 | 17 | [Weather Observation Station 12](https://www.hackerrank.com/challenges/weather-observation-station-12) | 15 | [SQL](https://github.com/berkayzaimdev/HackerRank/blob/main/SQL/Basic%20Select/17_Weather%20Observation%20Station%2012.sql)
 | 18 | [Higher Than 75 Marks](https://www.hackerrank.com/challenges/more-than-75-marks) | 15 | [SQL](https://github.com/berkayzaimdev/HackerRank/blob/main/SQL/Basic%20Select/18_Higher%20Than%2075%20Marks.sql)
-| 19 | [Employee Names](https://www.hackerrank.com/challenges/name-of-employees) | 10 | [SQL]()
+| 19 | [Employee Names](https://www.hackerrank.com/challenges/name-of-employees) | 10 | [SQL](https://github.com/berkayzaimdev/HackerRank/blob/main/SQL/Basic%20Select/19_Employee%20Names.sql)
 | 20 | [Employee Salaries](https://www.hackerrank.com/challenges/salary-of-employees) | 10 | [SQL]()
