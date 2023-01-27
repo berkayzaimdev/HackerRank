@@ -1,8 +1,63 @@
 <div align="center"><a href="https://www.hackerrank.com/berkayzaimdev"><img src="https://user-images.githubusercontent.com/88087972/214304048-f2b0c50f-e299-4c3d-b318-c281879a859d.png" width="50%"/></a></div>
- 
+
+- [Java](#java)
 - [Python](#python)
 - [SQL](#sql)
 - [Regex](#regex)
+
+
+
+# Java
+
+## Subdomains
+- [Introduction](#introduction)
+- [Data Structures](#data-structures)
+- [Object Oriented Programming](#object-oriented-programming)
+- [Exception Handling](#exception-handling)
+
+
+### Introduction
+| Number | Challenge | Points | Solution
+| :-------: | :-------: | :----: | :------:
+| 1 | [Welcome to Java!](https://www.hackerrank.com/challenges/welcome-to-java) | 3 | [Java](https://github.com/berkayzaimdev/HackerRank/blob/main/Java/Introduction/01_Welcome%20to%20Java!.java)
+| 2 | [Java Stdin and Stdout I](https://www.hackerrank.com/challenges/java-stdin-and-stdout-1) | 5 | [Java](https://github.com/berkayzaimdev/HackerRank/blob/main/Java/Introduction/02_Java%20Stdin%20and%20Stdout%20I.java)
+| 3 | [Java If-Else](https://www.hackerrank.com/challenges/java-if-else) | 10 | [Java](https://github.com/berkayzaimdev/HackerRank/blob/main/Java/Introduction/03_Java%20If-Else.java)
+| 4 | [Java Stdin and Stdout II](https://www.hackerrank.com/challenges/java-stdin-stdout) | 10 | [Java](https://github.com/berkayzaimdev/HackerRank/blob/main/Java/Introduction/04_Java%20Stdin%20and%20Stdout%20II.java)
+| 5 | [Java Output Formatting](https://www.hackerrank.com/challenges/java-output-formatting) | 10 | [Java](https://github.com/berkayzaimdev/HackerRank/blob/main/Java/Introduction/05_Java%20Output%20Formatting.java)
+| 6 | [Java Loops I](https://www.hackerrank.com/challenges/java-loops-i) | 10 | [Java](https://github.com/berkayzaimdev/HackerRank/blob/main/Java/Introduction/06_Java%20Loops%20I.java)
+| 7 | [Java Loops II](https://www.hackerrank.com/challenges/java-loops) | 10 | [Java](https://github.com/berkayzaimdev/HackerRank/blob/main/Java/Introduction/07_Java%20Loops%20II.java)
+| 8 | [Java Datatypes](https://www.hackerrank.com/challenges/java-datatypes) | 10 | [Java](https://github.com/berkayzaimdev/HackerRank/blob/main/Java/Introduction/08_Java%20Datatypes.java)
+| 9 | [Java End-of-file](https://www.hackerrank.com/challenges/java-end-of-file) | 10 | [Java](https://github.com/berkayzaimdev/HackerRank/blob/main/Java/Introduction/09_Java%20End-of-file.java)
+| 10 | [Java Static Initializer Block](https://www.hackerrank.com/challenges/java-static-initializer-block) | 10 | [Java](https://github.com/berkayzaimdev/HackerRank/blob/main/Java/Introduction/10_Java%20Static%20Initializer%20Block.java)
+| 11 | [Java Int to String](https://www.hackerrank.com/challenges/java-int-to-string) | 10 | [Java](https://github.com/berkayzaimdev/HackerRank/blob/main/Java/Introduction/11_Java%20Int%20to%20String.java)
+| 12 | [Java Date and Time](https://www.hackerrank.com/challenges/java-date-and-time) | 15 | [Java](https://github.com/berkayzaimdev/HackerRank/blob/main/Java/Introduction/12_Java%20Date%20and%20Time.java)
+| 13 | [Java Currency Formatter](https://www.hackerrank.com/challenges/java-currency-formatter) | 15 | [Java](https://github.com/berkayzaimdev/HackerRank/blob/main/Java/Introduction/13_Java%20Currency%20Formatter.java)
+
+### Data Structures
+| Number | Challenge | Points | Solution
+| :-------: | :-------: | :----: | :------:
+| 1 | [Java 1D Array](https://www.hackerrank.com/challenges/java-1d-array-introduction) | 5 | [Java](https://github.com/berkayzaimdev/HackerRank/blob/main/Java/Data%20Structures/01_Java%201D%20Array.java)
+| 2 | [Java Subarray](https://www.hackerrank.com/challenges/java-negative-subarray) | 10 | [Java](https://github.com/berkayzaimdev/HackerRank/blob/main/Java/Data%20Structures/02_Java%20Subarray.java)
+| 3 | [Java Arraylist](https://www.hackerrank.com/challenges/java-arraylist) | 10 | [Java](https://github.com/berkayzaimdev/HackerRank/blob/main/Java/Data%20Structures/03_Java%20Arraylist.java)
+| 4 | [Java 1D Array (Part 2)](https://www.hackerrank.com/challenges/java-1d-array) | 25 | [Java](https://github.com/berkayzaimdev/HackerRank/blob/main/Java/Data%20Structures/04_Java%201D%20Array%20(Part%202))
+| 5 | [Java Hashset](https://www.hackerrank.com/challenges/java-hashset) | 10 | [Java](https://github.com/berkayzaimdev/HackerRank/blob/main/Java/Data%20Structures/05_Java%20Hashset.java)
+| 6 | [Java Generics](https://www.hackerrank.com/challenges/java-generics) | 15 | [Java](https://github.com/berkayzaimdev/HackerRank/blob/main/Java/Data%20Structures/06_Java%20Generics.java)
+| 7 | [Java Priority Queue](https://www.hackerrank.com/challenges/java-priority-queue) | 20 | [Java](https://github.com/berkayzaimdev/HackerRank/blob/main/Java/Data%20Structures/07_Java%20Priority%20Queue.java)
+
+### Object Oriented Programming
+| Number | Challenge | Points | Solution
+| :-------: | :-------: | :----: | :------:
+| 1 | [Java Inheritance I](https://www.hackerrank.com/challenges/java-inheritance-1) | 5 | [Java](https://github.com/berkayzaimdev/HackerRank/blob/main/Java/Object%20Oriented%20Programming/01_Java%20Inheritance%20I.java)
+| 2 | [Java Inheritance II](https://www.hackerrank.com/challenges/java-inheritance-2) | 10 | [Java](https://github.com/berkayzaimdev/HackerRank/blob/main/Java/Data%20Structures/02_Java%20Subarray.java)
+| 3 | [Java Abstract Class](https://www.hackerrank.com/challenges/java-abstract-class) | 10 | [Java](https://github.com/berkayzaimdev/HackerRank/blob/main/Java/Object%20Oriented%20Programming/02_Java%20Inheritance%20II.java)
+| 4 | [Java Interface](https://www.hackerrank.com/challenges/java-interface) | 10 | [Java](https://github.com/berkayzaimdev/HackerRank/blob/main/Java/Object%20Oriented%20Programming/04_Java%20Interface.java)
+| 5 | [Java Method Overriding](https://www.hackerrank.com/challenges/java-method-overriding) | 10 | [Java](https://github.com/berkayzaimdev/HackerRank/blob/main/Java/Object%20Oriented%20Programming/05_Java%20Method%20Overriding.java)
+
+### Exception Handling
+| Number | Challenge | Points | Solution
+| :-------: | :-------: | :----: | :------:
+| 1 | [Java Exception Handling (Try-catch)](https://www.hackerrank.com/challenges/java-exception-handling-try-catch) | 10 | [Java](https://github.com/berkayzaimdev/HackerRank/blob/main/Java/Object%20Oriented%20Programming/01_Java%20Inheritance%20I.java)
+| 2 | [Java Exception Handling](https://www.hackerrank.com/challenges/java-exception-handling) | 15 | [Java](https://github.com/berkayzaimdev/HackerRank/blob/main/Java/Exception%20Handling/02_Java%20Exception%20Handling.java)
 
 
 # Python
@@ -23,7 +78,6 @@
 | 5 | [Loops](https://www.hackerrank.com/challenges/python-loops) | 10 | [Python](https://github.com/berkayzaimdev/HackerRank/blob/main/Python/Introduction/05_Loops.py)
 | 6 | [Write a function](https://www.hackerrank.com/challenges/write-a-function) | 10 | [Python](https://github.com/berkayzaimdev/HackerRank/blob/main/Python/Introduction/06_Write%20a%20function.py)
 | 7 | [Print Function](https://www.hackerrank.com/challenges/python-print) | 20 | [Python](https://github.com/berkayzaimdev/HackerRank/blob/main/Python/Introduction/07_Print%20Function.py)
-
 
 ### Basic Data Types
 | Number | Challenge | Points | Solution
