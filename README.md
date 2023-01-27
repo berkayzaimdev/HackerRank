@@ -10,13 +10,13 @@
 # Java
 
 ## Subdomains
-- [Introduction](#introduction)
+- [Introduction](#java-introduction)
 - [Data Structures](#data-structures)
 - [Object Oriented Programming](#object-oriented-programming)
 - [Exception Handling](#exception-handling)
 
 
-### Introduction
+### Java Introduction
 | Number | Challenge | Points | Solution
 | :-------: | :-------: | :----: | :------:
 | 1 | [Welcome to Java!](https://www.hackerrank.com/challenges/welcome-to-java) | 3 | [Java](https://github.com/berkayzaimdev/HackerRank/blob/main/Java/Introduction/01_Welcome%20to%20Java!.java)
@@ -63,12 +63,12 @@
 # Python
 
 ## Subdomains
-- [Introduction](#introduction)
+- [Introduction](#python-introduction)
 - [Basic Data Types](#basic-data-types)
 - [Strings](#strings)
 
 
-### Introduction
+### Python Introduction
 | Number | Challenge | Points | Solution
 | :-------: | :-------: | :----: | :------:
 | 1 | [Say "Hello, World!" With Python](https://www.hackerrank.com/challenges/py-hello-world) | 5 | [Python](https://github.com/berkayzaimdev/HackerRank/blob/main/Python/Introduction/01_Say%20%22Hello%2C%20World!%22%20With%20Python.py)
@@ -157,10 +157,10 @@
 # Regex
 
 ## Subdomains
-- [Introduction](#introduction)
+- [Introduction](#regex-introduction)
 
 
-### Introduction
+### Regex Introduction
 | Number | Challenge | Points | Solution
 | :-------: | :-------: | :----: | :------:
 | 1 | [Matching Specific String](https://www.hackerrank.com/challenges/matching-specific-string) | 5 | [Python](https://github.com/berkayzaimdev/HackerRank/blob/main/Regex/01_Matching%20Specific%20String.py)
