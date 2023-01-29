@@ -48,15 +48,15 @@
 | Number | Challenge | Points | Solution
 | :-------: | :-------: | :----: | :------:
 | 1 | [Java Inheritance I](https://www.hackerrank.com/challenges/java-inheritance-1) | 5 | [Java](https://github.com/berkayzaimdev/HackerRank/blob/main/Java/Object%20Oriented%20Programming/01_Java%20Inheritance%20I.java)
-| 2 | [Java Inheritance II](https://www.hackerrank.com/challenges/java-inheritance-2) | 10 | [Java](https://github.com/berkayzaimdev/HackerRank/blob/main/Java/Data%20Structures/02_Java%20Subarray.java)
-| 3 | [Java Abstract Class](https://www.hackerrank.com/challenges/java-abstract-class) | 10 | [Java](https://github.com/berkayzaimdev/HackerRank/blob/main/Java/Object%20Oriented%20Programming/02_Java%20Inheritance%20II.java)
+| 2 | [Java Inheritance II](https://www.hackerrank.com/challenges/java-inheritance-2) | 10 | [Java](https://github.com/berkayzaimdev/HackerRank/blob/main/Java/Object%20Oriented%20Programming/02_Java%20Inheritance%20II.java)
+| 3 | [Java Abstract Class](https://www.hackerrank.com/challenges/java-abstract-class) | 10 | [Java](https://github.com/berkayzaimdev/HackerRank/blob/main/Java/Object%20Oriented%20Programming/03_Java%20Abstract%20Class.java)
 | 4 | [Java Interface](https://www.hackerrank.com/challenges/java-interface) | 10 | [Java](https://github.com/berkayzaimdev/HackerRank/blob/main/Java/Object%20Oriented%20Programming/04_Java%20Interface.java)
 | 5 | [Java Method Overriding](https://www.hackerrank.com/challenges/java-method-overriding) | 10 | [Java](https://github.com/berkayzaimdev/HackerRank/blob/main/Java/Object%20Oriented%20Programming/05_Java%20Method%20Overriding.java)
 
 ### Exception Handling
 | Number | Challenge | Points | Solution
 | :-------: | :-------: | :----: | :------:
-| 1 | [Java Exception Handling (Try-catch)](https://www.hackerrank.com/challenges/java-exception-handling-try-catch) | 10 | [Java](https://github.com/berkayzaimdev/HackerRank/blob/main/Java/Object%20Oriented%20Programming/01_Java%20Inheritance%20I.java)
+| 1 | [Java Exception Handling (Try-catch)](https://www.hackerrank.com/challenges/java-exception-handling-try-catch) | 10 | [Java](https://github.com/berkayzaimdev/HackerRank/blob/main/Java/Exception%20Handling/01_Java%20Exception%20Handling%20(Try-catch).java)
 | 2 | [Java Exception Handling](https://www.hackerrank.com/challenges/java-exception-handling) | 15 | [Java](https://github.com/berkayzaimdev/HackerRank/blob/main/Java/Exception%20Handling/02_Java%20Exception%20Handling.java)
 
 
@@ -72,7 +72,7 @@
 | Number | Challenge | Points | Solution
 | :-------: | :-------: | :----: | :------:
 | 1 | [Say "Hello, World!" With Python](https://www.hackerrank.com/challenges/py-hello-world) | 5 | [Python](https://github.com/berkayzaimdev/HackerRank/blob/main/Python/Introduction/01_Say%20%22Hello%2C%20World!%22%20With%20Python.py)
-| 2 | [Python If-Else](https://www.hackerrank.com/challenges/py-if-else) | 10 | [Python](https://github.com/berkayzaimdev/HackerRank/blob/main/SQL/Basic%20Select/01_Revising%20the%20Select%20Query%20I.sql)
+| 2 | [Python If-Else](https://www.hackerrank.com/challenges/py-if-else) | 10 | [Python](https://github.com/berkayzaimdev/HackerRank/blob/main/Python/Introduction/02_Python%20If-Else.py)
 | 3 | [Arithmetic Operators](https://www.hackerrank.com/challenges/python-arithmetic-operators) | 10 | [Python](https://github.com/berkayzaimdev/HackerRank/blob/main/Python/Introduction/03_Arithmetic%20Operators.py)
 | 4 | [Python: Division](https://www.hackerrank.com/challenges/python-division) | 10 | [Python](https://github.com/berkayzaimdev/HackerRank/blob/main/Python/Introduction/04_Python:%20Division.py)
 | 5 | [Loops](https://www.hackerrank.com/challenges/python-loops) | 10 | [Python](https://github.com/berkayzaimdev/HackerRank/blob/main/Python/Introduction/05_Loops.py)
