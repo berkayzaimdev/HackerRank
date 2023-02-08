@@ -7,7 +7,7 @@
 
 
 
-
+<br/><br/><br/>
 # Java
 
 ## Subdomains
@@ -74,7 +74,7 @@
 | 8 | [Java Regex](https://www.hackerrank.com/challenges/java-regex) | 25 | [Java](https://github.com/berkayzaimdev/HackerRank/blob/main/Java/Strings/08_Java%20Regex.java)
 
 
-
+<br/><br/><br/>
 # Python
 
 ## Subdomains
@@ -123,7 +123,7 @@
 | 14 | [Merge the Tools!](https://www.hackerrank.com/challenges/merge-the-tools) | 40 | [Python](https://github.com/berkayzaimdev/HackerRank/blob/main/Python/Strings/14_Merge%20the%20Tools!.py)
 
 
-
+<br/><br/><br/>
 # SQL
 
 ## Subdomains
@@ -191,7 +191,7 @@
 | 3 | [Average Population of Each Continent](https://www.hackerrank.com/challenges/average-population-of-each-continent) | 10 | [MySQL](https://github.com/berkayzaimdev/HackerRank/blob/main/SQL/Basic%20Join/03_Average%20Population%20of%20Each%20Continent.sql)
 
 
-
+<br/><br/><br/>
 # Regex
 
 ## Subdomains
