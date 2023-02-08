@@ -7,6 +7,7 @@
 
 
 
+
 # Java
 
 ## Subdomains
@@ -14,6 +15,7 @@
 - [Data Structures](#data-structures)
 - [Object Oriented Programming](#object-oriented-programming)
 - [Exception Handling](#exception-handling)
+- [Strings](#java-strings)
 
 
 ### Java Introduction
@@ -59,13 +61,26 @@
 | 1 | [Java Exception Handling (Try-catch)](https://www.hackerrank.com/challenges/java-exception-handling-try-catch) | 10 | [Java](https://github.com/berkayzaimdev/HackerRank/blob/main/Java/Exception%20Handling/01_Java%20Exception%20Handling%20(Try-catch).java)
 | 2 | [Java Exception Handling](https://www.hackerrank.com/challenges/java-exception-handling) | 15 | [Java](https://github.com/berkayzaimdev/HackerRank/blob/main/Java/Exception%20Handling/02_Java%20Exception%20Handling.java)
 
+### Java Strings
+| Number | Challenge | Points | Solution
+| :-------: | :-------: | :----: | :------:
+| 1 | [Java Strings Introduction](https://www.hackerrank.com/challenges/java-strings-introduction) | 5 | [Java](https://github.com/berkayzaimdev/HackerRank/blob/main/Java/Strings/01_Java%20Strings%20Introduction.java)
+| 2 | [Java Substring](https://www.hackerrank.com/challenges/java-substring) | 5 | [Java](https://github.com/berkayzaimdev/HackerRank/blob/main/Java/Strings/02_Java%20Substring.java)
+| 3 | [Java Substring Comparisons](https://www.hackerrank.com/challenges/java-string-compare) | 10 | [Java](https://github.com/berkayzaimdev/HackerRank/blob/main/Java/Strings/03_Java%20Substring%20Comparisons.java)
+| 4 | [Java String Reverse](https://www.hackerrank.com/challenges/java-string-reverse) | 10 | [Java](https://github.com/berkayzaimdev/HackerRank/blob/main/Java/Strings/04_Java%20String%20Reverse.java)
+| 5 | [Java Anagrams](https://www.hackerrank.com/challenges/java-anagrams) | 10 | [Java](https://github.com/berkayzaimdev/HackerRank/blob/main/Java/Strings/05_Java%20Anagrams.java)
+| 6 | [Java String Tokens](https://www.hackerrank.com/challenges/java-string-tokens) | 15 | [Java](https://github.com/berkayzaimdev/HackerRank/blob/main/Java/Strings/06_Java%20String%20Tokens.java)
+| 7 | [Pattern Syntax Checker](https://www.hackerrank.com/challenges/pattern-syntax-checker) | 20 | [Java](https://github.com/berkayzaimdev/HackerRank/blob/main/Java/Strings/07_Pattern%20Syntax%20Checker.java)
+| 8 | [Java Regex](https://www.hackerrank.com/challenges/java-regex) | 25 | [Java](https://github.com/berkayzaimdev/HackerRank/blob/main/Java/Strings/08_Java%20Regex.java)
+
+
 
 # Python
 
 ## Subdomains
 - [Introduction](#python-introduction)
 - [Basic Data Types](#basic-data-types)
-- [Strings](#strings)
+- [Strings](#python-strings)
 
 
 ### Python Introduction
@@ -89,7 +104,7 @@
 | 5 | [Lists](https://www.hackerrank.com/challenges/python-lists) | 10 | [Python](https://github.com/berkayzaimdev/HackerRank/blob/main/Python/Basic%20Data%20Types/05_Lists.py)
 | 6 | [Tuples](https://www.hackerrank.com/challenges/python-tuples) | 10 | [Python](https://github.com/berkayzaimdev/HackerRank/blob/main/Python/Basic%20Data%20Types/06_Tuples.py)
 
-### Strings
+### Python Strings
 | Number | Challenge | Points | Solution
 | :-------: | :-------: | :----: | :------:
 | 1 | [sWAP cASE](https://www.hackerrank.com/challenges/swap-case) | 10 | [Python](https://github.com/berkayzaimdev/HackerRank/blob/main/Python/Strings/01_sWAP%20cASE.py)
