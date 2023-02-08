@@ -130,42 +130,65 @@
 - [Basic Select](#basic-select)
 - [Advanced Select](#advanced-select)
 - [Aggregation](#aggregation)
+- [Basic Join](#basic-join)
 
 
 ### Basic Select
 | Number | Challenge | Points | Solution
 | :-------: | :-------: | :----: | :------:
-| 1 | [Revising the Select Query I](https://www.hackerrank.com/challenges/revising-the-select-query) | 10 | [SQL](https://github.com/berkayzaimdev/HackerRank/blob/main/SQL/Basic%20Select/01_Revising%20the%20Select%20Query%20I.sql)
-| 2 | [Revising the Select Query II](https://www.hackerrank.com/challenges/revising-the-select-query-2) | 10 | [SQL](https://github.com/berkayzaimdev/HackerRank/blob/main/SQL/Basic%20Select/02_Revising%20the%20Select%20Query%20II.sql)
-| 3 | [Select All](https://www.hackerrank.com/challenges/select-all-sql) | 10 | [SQL](https://github.com/berkayzaimdev/HackerRank/blob/main/SQL/Basic%20Select/03_Select%20All.sql)
-| 4 | [Select By ID](https://www.hackerrank.com/challenges/select-by-id) | 10 | [SQL](https://github.com/berkayzaimdev/HackerRank/blob/main/SQL/Basic%20Select/04_Select%20By%20ID.sql)
-| 5 | [Japanese Cities' Attributes](https://www.hackerrank.com/challenges/japanese-cities-attributes) | 10 | [SQL](https://github.com/berkayzaimdev/HackerRank/blob/main/SQL/Basic%20Select/05_Japanese%20Cities'%20Attributes.sql)
-| 6 | [Japanese Cities' Names](https://www.hackerrank.com/challenges/japanese-cities-name) | 10 | [SQL](https://github.com/berkayzaimdev/HackerRank/blob/main/SQL/Basic%20Select/06_Japanese%20Cities'%20Names.sql)
-| 7 | [Weather Observation Station 1](https://www.hackerrank.com/challenges/weather-observation-station-1) | 15 | [SQL](https://github.com/berkayzaimdev/HackerRank/blob/main/SQL/Basic%20Select/07_Weather%20Observation%20Station%201.sql)
-| 8 | [Weather Observation Station 3](https://www.hackerrank.com/challenges/weather-observation-station-3) | 10 | [SQL](https://github.com/berkayzaimdev/HackerRank/blob/main/SQL/Basic%20Select/08_Weather%20Observation%20Station%203.sql)
-| 9 | [Weather Observation Station 4](https://www.hackerrank.com/challenges/weather-observation-station-4) | 10 | [SQL](https://github.com/berkayzaimdev/HackerRank/blob/main/SQL/Basic%20Select/09_Weather%20Observation%20Station%204.sql)
-| 10 | [Weather Observation Station 5](https://www.hackerrank.com/challenges/weather-observation-station-5) | 30 | [SQL](https://github.com/berkayzaimdev/HackerRank/blob/main/SQL/Basic%20Select/10_Weather%20Observation%20Station%205.sql)
-| 11 | [Weather Observation Station 6](https://www.hackerrank.com/challenges/weather-observation-station-6) | 10 | [SQL](https://github.com/berkayzaimdev/HackerRank/blob/main/SQL/Basic%20Select/11_Weather%20Observation%20Station%206.sql)
-| 12 | [Weather Observation Station 7](https://www.hackerrank.com/challenges/weather-observation-station-7) | 10 | [SQL](https://github.com/berkayzaimdev/HackerRank/blob/main/SQL/Basic%20Select/12_Weather%20Observation%20Station%207.sql)
-| 13 | [Weather Observation Station 8](https://www.hackerrank.com/challenges/weather-observation-station-8) | 15 | [SQL](https://github.com/berkayzaimdev/HackerRank/blob/main/SQL/Basic%20Select/13_Weather%20Observation%20Station%208.sql)
-| 14 | [Weather Observation Station 9](https://www.hackerrank.com/challenges/weather-observation-station-9) | 10 | [SQL](https://github.com/berkayzaimdev/HackerRank/blob/main/SQL/Basic%20Select/14_Weather%20Observation%20Station%209.sql)
-| 15 | [Weather Observation Station 10](https://www.hackerrank.com/challenges/weather-observation-station-10) | 10 | [SQL](https://github.com/berkayzaimdev/HackerRank/blob/main/SQL/Basic%20Select/15_Weather%20Observation%20Station%2010.sql)
-| 16 | [Weather Observation Station 11](https://www.hackerrank.com/challenges/weather-observation-station-11) | 15 | [SQL](https://github.com/berkayzaimdev/HackerRank/blob/main/SQL/Basic%20Select/16_Weather%20Observation%20Station%2011.sql)
-| 17 | [Weather Observation Station 12](https://www.hackerrank.com/challenges/weather-observation-station-12) | 15 | [SQL](https://github.com/berkayzaimdev/HackerRank/blob/main/SQL/Basic%20Select/17_Weather%20Observation%20Station%2012.sql)
-| 18 | [Higher Than 75 Marks](https://www.hackerrank.com/challenges/more-than-75-marks) | 15 | [SQL](https://github.com/berkayzaimdev/HackerRank/blob/main/SQL/Basic%20Select/18_Higher%20Than%2075%20Marks.sql)
-| 19 | [Employee Names](https://www.hackerrank.com/challenges/name-of-employees) | 10 | [SQL](https://github.com/berkayzaimdev/HackerRank/blob/main/SQL/Basic%20Select/19_Employee%20Names.sql)
-| 20 | [Employee Salaries](https://www.hackerrank.com/challenges/salary-of-employees) | 10 | [SQL](https://github.com/berkayzaimdev/HackerRank/blob/main/SQL/Basic%20Select/20_Employee%20Salaries.sql)
+| 1 | [Revising the Select Query I](https://www.hackerrank.com/challenges/revising-the-select-query) | 10 | [MySQL](https://github.com/berkayzaimdev/HackerRank/blob/main/SQL/Basic%20Select/01_Revising%20the%20Select%20Query%20I.sql)
+| 2 | [Revising the Select Query II](https://www.hackerrank.com/challenges/revising-the-select-query-2) | 10 | [MySQL](https://github.com/berkayzaimdev/HackerRank/blob/main/SQL/Basic%20Select/02_Revising%20the%20Select%20Query%20II.sql)
+| 3 | [Select All](https://www.hackerrank.com/challenges/select-all-sql) | 10 | [MySQL](https://github.com/berkayzaimdev/HackerRank/blob/main/SQL/Basic%20Select/03_Select%20All.sql)
+| 4 | [Select By ID](https://www.hackerrank.com/challenges/select-by-id) | 10 | [MySQL](https://github.com/berkayzaimdev/HackerRank/blob/main/SQL/Basic%20Select/04_Select%20By%20ID.sql)
+| 5 | [Japanese Cities' Attributes](https://www.hackerrank.com/challenges/japanese-cities-attributes) | 10 | [MySQL](https://github.com/berkayzaimdev/HackerRank/blob/main/SQL/Basic%20Select/05_Japanese%20Cities'%20Attributes.sql)
+| 6 | [Japanese Cities' Names](https://www.hackerrank.com/challenges/japanese-cities-name) | 10 | [MySQL](https://github.com/berkayzaimdev/HackerRank/blob/main/SQL/Basic%20Select/06_Japanese%20Cities'%20Names.sql)
+| 7 | [Weather Observation Station 1](https://www.hackerrank.com/challenges/weather-observation-station-1) | 15 | [MySQL](https://github.com/berkayzaimdev/HackerRank/blob/main/SQL/Basic%20Select/07_Weather%20Observation%20Station%201.sql)
+| 8 | [Weather Observation Station 3](https://www.hackerrank.com/challenges/weather-observation-station-3) | 10 | [MySQL](https://github.com/berkayzaimdev/HackerRank/blob/main/SQL/Basic%20Select/08_Weather%20Observation%20Station%203.sql)
+| 9 | [Weather Observation Station 4](https://www.hackerrank.com/challenges/weather-observation-station-4) | 10 | [MySQL](https://github.com/berkayzaimdev/HackerRank/blob/main/SQL/Basic%20Select/09_Weather%20Observation%20Station%204.sql)
+| 10 | [Weather Observation Station 5](https://www.hackerrank.com/challenges/weather-observation-station-5) | 30 | [MySQL](https://github.com/berkayzaimdev/HackerRank/blob/main/SQL/Basic%20Select/10_Weather%20Observation%20Station%205.sql)
+| 11 | [Weather Observation Station 6](https://www.hackerrank.com/challenges/weather-observation-station-6) | 10 | [MySQL](https://github.com/berkayzaimdev/HackerRank/blob/main/SQL/Basic%20Select/11_Weather%20Observation%20Station%206.sql)
+| 12 | [Weather Observation Station 7](https://www.hackerrank.com/challenges/weather-observation-station-7) | 10 | [MySQL](https://github.com/berkayzaimdev/HackerRank/blob/main/SQL/Basic%20Select/12_Weather%20Observation%20Station%207.sql)
+| 13 | [Weather Observation Station 8](https://www.hackerrank.com/challenges/weather-observation-station-8) | 15 | [MySQL](https://github.com/berkayzaimdev/HackerRank/blob/main/SQL/Basic%20Select/13_Weather%20Observation%20Station%208.sql)
+| 14 | [Weather Observation Station 9](https://www.hackerrank.com/challenges/weather-observation-station-9) | 10 | [MySQL](https://github.com/berkayzaimdev/HackerRank/blob/main/SQL/Basic%20Select/14_Weather%20Observation%20Station%209.sql)
+| 15 | [Weather Observation Station 10](https://www.hackerrank.com/challenges/weather-observation-station-10) | 10 | [MySQL](https://github.com/berkayzaimdev/HackerRank/blob/main/SQL/Basic%20Select/15_Weather%20Observation%20Station%2010.sql)
+| 16 | [Weather Observation Station 11](https://www.hackerrank.com/challenges/weather-observation-station-11) | 15 | [MySQL](https://github.com/berkayzaimdev/HackerRank/blob/main/SQL/Basic%20Select/16_Weather%20Observation%20Station%2011.sql)
+| 17 | [Weather Observation Station 12](https://www.hackerrank.com/challenges/weather-observation-station-12) | 15 | [MySQL](https://github.com/berkayzaimdev/HackerRank/blob/main/SQL/Basic%20Select/17_Weather%20Observation%20Station%2012.sql)
+| 18 | [Higher Than 75 Marks](https://www.hackerrank.com/challenges/more-than-75-marks) | 15 | [MySQL](https://github.com/berkayzaimdev/HackerRank/blob/main/SQL/Basic%20Select/18_Higher%20Than%2075%20Marks.sql)
+| 19 | [Employee Names](https://www.hackerrank.com/challenges/name-of-employees) | 10 | [MySQL](https://github.com/berkayzaimdev/HackerRank/blob/main/SQL/Basic%20Select/19_Employee%20Names.sql)
+| 20 | [Employee Salaries](https://www.hackerrank.com/challenges/salary-of-employees) | 10 | [MySQL](https://github.com/berkayzaimdev/HackerRank/blob/main/SQL/Basic%20Select/20_Employee%20Salaries.sql)
 
 ### Advanced Select
 | Number | Challenge | Points | Solution
 | :-------: | :-------: | :----: | :------:
-| 1 | [Type of Triangle](https://www.hackerrank.com/challenges/what-type-of-triangle) | 20 | [SQL](https://github.com/berkayzaimdev/HackerRank/blob/main/SQL/Advanced%20Select/01_Type%20of%20Triangle.sql)
+| 1 | [Type of Triangle](https://www.hackerrank.com/challenges/what-type-of-triangle) | 20 | [MySQL](https://github.com/berkayzaimdev/HackerRank/blob/main/SQL/Advanced%20Select/01_Type%20of%20Triangle.sql)
 
 ### Aggregation
 | Number | Challenge | Points | Solution
 | :-------: | :-------: | :----: | :------:
-| 1 | [Revising Aggregations - The Count Function](https://www.hackerrank.com/challenges/revising-aggregations-the-count-function) | 10 | [SQL](https://github.com/berkayzaimdev/HackerRank/blob/main/SQL/Aggregation/01_Revising%20Aggregations%20-%20The%20Count%20Function.sql)
-| 2 | [Revising Aggregations - The Sum Function](https://www.hackerrank.com/challenges/revising-aggregations-sum) | 10 | [SQL](https://github.com/berkayzaimdev/HackerRank/blob/main/SQL/Aggregation/02_Revising%20Aggregations%20-%20The%20Sum%20Function.sql)
+| 1 | [Revising Aggregations - The Count Function](https://www.hackerrank.com/challenges/revising-aggregations-the-count-function) | 10 | [MySQL](https://github.com/berkayzaimdev/HackerRank/blob/main/SQL/Aggregation/01_Revising%20Aggregations%20-%20The%20Count%20Function.sql)
+| 2 | [Revising Aggregations - The Sum Function](https://www.hackerrank.com/challenges/revising-aggregations-sum) | 10 | [MySQL](https://github.com/berkayzaimdev/HackerRank/blob/main/SQL/Aggregation/02_Revising%20Aggregations%20-%20The%20Sum%20Function.sql)
+| 3 | [Revising Aggregations - Averages](https://www.hackerrank.com/challenges/revising-aggregations-the-average-function) | 10 | [MySQL](https://github.com/berkayzaimdev/HackerRank/blob/main/SQL/Aggregation/03_Revising%20Aggregations%20-%20Averages.sql)
+| 4 | [Average Population](https://www.hackerrank.com/challenges/average-population) | 10 | [MySQL](https://github.com/berkayzaimdev/HackerRank/blob/main/SQL/Aggregation/04_Average%20Population.sql)
+| 5 | [Japan Population](https://www.hackerrank.com/challenges/japan-population) | 10 | [MySQL](https://github.com/berkayzaimdev/HackerRank/blob/main/SQL/Aggregation/05_Japan%20Population.sql)
+| 6 | [Population Density Difference](https://www.hackerrank.com/challenges/population-density-difference) | 10 | [MySQL](https://github.com/berkayzaimdev/HackerRank/blob/main/SQL/Aggregation/06_Population%20Density%20Difference.sql)
+| 7 | [The Blunder](https://www.hackerrank.com/challenges/the-blunder) | 15 | [MySQL](https://github.com/berkayzaimdev/HackerRank/blob/main/SQL/Aggregation/07_The%20Blunder.sql)
+| 8 | [Top Earners](https://www.hackerrank.com/challenges/earnings-of-employees) | 20 | [MySQL](https://github.com/berkayzaimdev/HackerRank/blob/main/SQL/Aggregation/08_Top%20Earners.sql)
+| 9 | [Weather Observation Station 2](https://www.hackerrank.com/challenges/weather-observation-station-2) | 15 | [MySQL](https://github.com/berkayzaimdev/HackerRank/blob/main/SQL/Aggregation/09_Weather%20Observation%20Station%202.sql)
+| 10 | [Weather Observation Station 13](https://www.hackerrank.com/challenges/weather-observation-station-13) | 10 | [MySQL](https://github.com/berkayzaimdev/HackerRank/blob/main/SQL/Aggregation/10_Weather%20Observation%20Station%2013.sql)
+| 11 | [Weather Observation Station 14](https://www.hackerrank.com/challenges/weather-observation-station-14) | 10 | [MySQL](https://github.com/berkayzaimdev/HackerRank/blob/main/SQL/Aggregation/11_Weather%20Observation%20Station%2014.sql)
+| 12 | [Weather Observation Station 15](https://www.hackerrank.com/challenges/weather-observation-station-15) | 15 | [MySQL](https://github.com/berkayzaimdev/HackerRank/blob/main/SQL/Aggregation/12_Weather%20Observation%20Station%2015.sql)
+| 13 | [Weather Observation Station 16](https://www.hackerrank.com/challenges/weather-observation-station-16) | 10 | [MySQL](https://github.com/berkayzaimdev/HackerRank/blob/main/SQL/Aggregation/13_Weather%20Observation%20Station%2016.sql)
+| 14 | [Weather Observation Station 17](https://www.hackerrank.com/challenges/weather-observation-station-17) | 15 | [MySQL](https://github.com/berkayzaimdev/HackerRank/blob/main/SQL/Aggregation/14_Weather%20Observation%20Station%2017.sql)
+| 15 | [Weather Observation Station 18](https://www.hackerrank.com/challenges/weather-observation-station-18) | 25 | [MySQL](https://github.com/berkayzaimdev/HackerRank/blob/main/SQL/Aggregation/15_Weather%20Observation%20Station%2018.sql)
+| 16 | [Weather Observation Station 19](https://www.hackerrank.com/challenges/weather-observation-station-19) | 30 | [MySQL](https://github.com/berkayzaimdev/HackerRank/blob/main/SQL/Aggregation/16_Weather%20Observation%20Station%2019.sql)
+| 17 | [Weather Observation Station 20](https://www.hackerrank.com/challenges/weather-observation-station-20) | 40 | [MySQL](https://github.com/berkayzaimdev/HackerRank/blob/main/SQL/Aggregation/17_Weather%20Observation%20Station%2020.sql)
+
+### Basic Join
+| Number | Challenge | Points | Solution
+| :-------: | :-------: | :----: | :------:
+| 1 | [Population Census](https://www.hackerrank.com/challenges/asian-population) | 10 | [MySQL](https://github.com/berkayzaimdev/HackerRank/blob/main/SQL/Basic%20Join/01_Population%20Census.sql)
+| 2 | [African Cities](https://www.hackerrank.com/challenges/african-cities) | 10 | [MySQL](https://github.com/berkayzaimdev/HackerRank/blob/main/SQL/Basic%20Join/02_African%20Cities.sql)
+| 3 | [Average Population of Each Continent](https://www.hackerrank.com/challenges/average-population-of-each-continent) | 10 | [MySQL](https://github.com/berkayzaimdev/HackerRank/blob/main/SQL/Basic%20Join/03_Average%20Population%20of%20Each%20Continent.sql)
 
 
 
