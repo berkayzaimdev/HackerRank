@@ -6,9 +6,10 @@ import java.util.regex.*;
 
 public class Solution
 {
+    
     static int getMoneySpent(int[] keyboards, int[] drives, int b) 
     {
-        int max=0;
+        int max=-1;
         for(int i : keyboards)
         {
             for(int j : drives)
@@ -51,7 +52,11 @@ public class Solution
             int drivesItem = Integer.parseInt(drivesItems[drivesItr]);
             drives[drivesItr] = drivesItem;
         }
-      
+
+        /*
+         * The maximum amount of money she can spend on a keyboard and USB drive, or -1 if she can't purchase both items
+         */
+
         int moneySpent = getMoneySpent(keyboards, drives, b);
 
         bufferedWriter.write(String.valueOf(moneySpent));
