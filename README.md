@@ -2,7 +2,7 @@
 
 - [Java](#java)
 - [Python](#python)
-- [SQL](#sql)
+- [SQL](#sql) 
 - [Regex](#regex)
 
 
