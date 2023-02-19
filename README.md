@@ -3,7 +3,7 @@
 - [Java](#java)
 - [Python](#python)
 - [SQL](#sql) 
-- [Regex](#regex)
+- [Regex](#regex) 
 
 
 
